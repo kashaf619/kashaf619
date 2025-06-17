@@ -1,23 +1,45 @@
-<!-- Banner (optional, can add later if desired) -->
+<!-- ========================= Banner ========================= -->
+<!-- You can add a custom SVG/banner image in `assets/banner.svg` or `assets/banner.png` -->
 <!-- <p align="center">
-  <img src="assets/banner.png" alt="Kashaf Banner" width="800"/>
+  <img src="assets/banner.svg" alt="Kashaf Banner" width="800"/>
 </p> -->
 
-# 👋 Hi there, I’m **Kashaf**!
+# 👋 Hi, I’m **Kashaf**
 
 ### 🚀 FPGA & SoC Design Enthusiast | System Design Explorer | Engineering with Code
 
 ---
 
-## 📝 About Me
-
-I’m a **Telecommunications Engineer** passionate about **digital systems, embedded hardware**, and **hardware simulation**.  
-From **low-level FPGA projects** to **System-on-Chip (SoC)** experiments, I enjoy bridging the gap between hardware and software with efficient, elegant solutions.  
-Currently expanding my expertise in **RISC-V**, **SystemVerilog**, and **hardware verification methodologies**.
+<!-- ========================= Typing Effect ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6600&width=500&lines=SystemVerilog+%7C+Verilog+%7C+C+%7C+Python+%7C+Assembly;FPGA+%7C+Quartus+%7C+Verilator;RISC-V+%7C+SoC+Design" alt="Typing SVG">
+</p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 📝 About Me
+
+I’m a **Telecommunications Engineer** passionate about **digital systems**, **hardware simulation**, and **embedded-software integration**.  
+From **low-level FPGA builds** to **RISC-V SoC experiments**, I love crafting elegant, efficient solutions at the hardware–software intersection.
+
+---
+
+## 🔥 Profile Highlights
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=kashaf619&theme=dark" alt="GitHub Streak">
+  &nbsp;&nbsp;
+  <!-- Visitor Counter -->
+  <img src="https://profile-counter.glitch.me/kashaf619/count.svg" alt="Visitor Count">
+  &nbsp;&nbsp;
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashaf619&theme=onedark" alt="Trophies"></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6600?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-2C2D72?style=for-the-badge&logoColor=white)
@@ -45,21 +67,27 @@ Currently expanding my expertise in **RISC-V**, **SystemVerilog**, and **hardwar
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashaf619&show_icons=true&theme=tokyonight" alt="Kashaf's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kashaf619&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashaf619&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## 💬 Daily Dev Quote
 
-- 📧 Email: **kashafudduja619@gmail.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/kashaf619)  
-- 🐦 [Twitter](https://twitter.com/kashaf619)
+> <img src="https://readme-quotes.vercel.app/api" alt="Random Quote" />
 
 ---
 
-*Thank you for visiting! Let’s build cool things together.* 🚀
+## 📫 Get in Touch
+
+- 📧 **Email:** kashafudduja619@gmail.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/kashaf619  
+- 🐦 **Twitter:** https://twitter.com/kashaf619
+
+---
+
+*Thank you for stopping by—let’s innovate and engineer the future together!* 🚀
